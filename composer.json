@@ -1,0 +1,5 @@
+{
+    "name": "myparkfolio/jars-nimbus-jose",
+    "description": "This will provide the libraries for JWT management (nimbus-jose)",
+    "type": "library"
+}
